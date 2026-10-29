@@ -1,0 +1,92 @@
+{
+  "output": "pcgrid-live-amd64.iso",
+  "bytes": 1083064320,
+  "sha256": "50acf472a49f3b944bcb8b9fcdd0994dbc0305c4850159b5595a8f7c3d09a986",
+  "parts": [
+    {
+      "name": "pcgrid-iso.part001.bin",
+      "bytes": 67108864,
+      "sha256": "ff0243d7ea90e3f9cc220dbc884b8731405afd78fe33abdcce5340ca5aa3a5e8"
+    },
+    {
+      "name": "pcgrid-iso.part002.bin",
+      "bytes": 67108864,
+      "sha256": "4f79863eb0935b6f651082c66a4fc63c80fdf940b1f0385562a0b24f39f70ae6"
+    },
+    {
+      "name": "pcgrid-iso.part003.bin",
+      "bytes": 67108864,
+      "sha256": "1b254aace1af4f60348b504c35225d875a268505b0b8f4e258f0fbed6dfb5006"
+    },
+    {
+      "name": "pcgrid-iso.part004.bin",
+      "bytes": 67108864,
+      "sha256": "a874ec8c0c78dae6429fb29536f0f29b73c1cacbf9e108b379a2fbea1fb248c6"
+    },
+    {
+      "name": "pcgrid-iso.part005.bin",
+      "bytes": 67108864,
+      "sha256": "1d59a543e40df4f994fc919fc862972a38ae373ba5640938b4df32b1fb65c5c1"
+    },
+    {
+      "name": "pcgrid-iso.part006.bin",
+      "bytes": 67108864,
+      "sha256": "3260be45859ae472c38d8c3d3028e821758b32f1e7668b2aa49201459542c262"
+    },
+    {
+      "name": "pcgrid-iso.part007.bin",
+      "bytes": 67108864,
+      "sha256": "45f1e5c8f2d1f7a5271e2c39c33a829c31c85a5168cd9be7edc31ba74e2576c0"
+    },
+    {
+      "name": "pcgrid-iso.part008.bin",
+      "bytes": 67108864,
+      "sha256": "6f5cadfa16edd21cfd1b06f170f976bcccf320f058de33f886ed579d535eba70"
+    },
+    {
+      "name": "pcgrid-iso.part009.bin",
+      "bytes": 67108864,
+      "sha256": "e778fd8e48953e5c2fc4ab8368e1ac39327bef27484041ec63c706bb0a2261c0"
+    },
+    {
+      "name": "pcgrid-iso.part010.bin",
+      "bytes": 67108864,
+      "sha256": "e09959b2c833bd491ffd351a2f3b5e470160e040566ae5b1323511c4aa3f39c9"
+    },
+    {
+      "name": "pcgrid-iso.part011.bin",
+      "bytes": 67108864,
+      "sha256": "eea6b5c72308aae40fba7132aa88994952d7f2dc828dd8e400fe20ec01b999b8"
+    },
+    {
+      "name": "pcgrid-iso.part012.bin",
+      "bytes": 67108864,
+      "sha256": "bf478df70669f5e0c44a39b02f5396a81f065ee74cd402c317f2499c49a0137f"
+    },
+    {
+      "name": "pcgrid-iso.part013.bin",
+      "bytes": 67108864,
+      "sha256": "fe6661df7a49280fb7b81c3bf5ecd8556e86b024cd37dc26c54a44cbc92f9fbb"
+    },
+    {
+      "name": "pcgrid-iso.part014.bin",
+      "bytes": 67108864,
+      "sha256": "961a03ebdf07c31d4bda1af8ebb3a8aae7e42b2b1417fb823a00268ff618e93c"
+    },
+    {
+      "name": "pcgrid-iso.part015.bin",
+      "bytes": 67108864,
+      "sha256": "74576baad88a789d31b4e5bff1b32f71cc0c1a8819927b560e93775d5867959e"
+    },
+    {
+      "name": "pcgrid-iso.part016.bin",
+      "bytes": 67108864,
+      "sha256": "338f7023fe45d67ad4c94b2c169c97c2483913df877d0cf3a8d41c0f2846a9f0"
+    },
+    {
+      "name": "pcgrid-iso.part017.bin",
+      "bytes": 9322496,
+      "sha256": "2eec207f64f9e503617b24f90925c11448dc88d733b5631988bcda06a238df08"
+    }
+  ]
+}
